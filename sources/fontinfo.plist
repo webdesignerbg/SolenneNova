@@ -3,17 +3,17 @@
 <plist version="1.0">
   <dict>
     <key>familyName</key>
-    <string>Solenne_Nova</string>
+    <string>SolenneNova</string>
     <key>styleName</key>
     <string>Book</string>
     <key>styleMapFamilyName</key>
-    <string>Solenne_Nova</string>
+    <string>SolenneNova</string>
     <key>versionMajor</key>
     <integer>1</integer>
     <key>versionMinor</key>
     <integer>0</integer>
     <key>copyright</key>
-    <string>Studio Font Generator (c) 2025, All rights reserved</string>
+    <string>Web Designer (c) 2025, All rights reserved</string>
     <key>unitsPerEm</key>
     <integer>2048</integer>
     <key>capHeight</key>
@@ -105,9 +105,9 @@
       <integer>0</integer>
     </array>
     <key>postscriptFontName</key>
-    <string>Solenne_Nova</string>
+    <string>SolenneNova</string>
     <key>postscriptFullName</key>
-    <string>Solenne_Nova</string>
+    <string>SolenneNova</string>
     <key>postscriptWeightName</key>
     <string>Book</string>
     <key>postscriptUnderlineThickness</key>

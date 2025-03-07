@@ -8959,3 +8959,8 @@ feature kern {
      language dflt ;
       lookup kernHorizontalKerninglookup0;
 } kern;
+#Mark attachment classes (defined in GDEF, used in lookupflags)
+
+table GDEF {
+} GDEF;
+
